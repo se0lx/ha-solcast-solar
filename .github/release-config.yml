@@ -1,4 +1,4 @@
-name-template: 'v$NEXT_MINOR_VERSION'
+0lxname-template: 'v$NEXT_MINOR_VERSION'
 tag-template: 'v$NEXT_MINOR_VERSION'
 categories:
   - title: '🚀 Features'
@@ -33,4 +33,4 @@ version-resolver:
 template: |
   $CHANGES
   
-  ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/oziee/ha-solcast-solar/v$NEXT_MINOR_VERSION/total)
+  ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/se0lx/ha-solcast-solar/v$NEXT_MINOR_VERSION/total)
